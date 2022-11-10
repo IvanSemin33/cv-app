@@ -5,7 +5,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": ""
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "convert-to-gltf": "gltf-pipeline -i model.glb -o model.gltf",
